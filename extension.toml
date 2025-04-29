@@ -1,9 +1,9 @@
-id = "nightfox-m"
-name = "nightfox_m"
-version = "0.0.1"
+id = "night-m"
+name = "Night-M"
+version = "0.1.0"
 schema_version = 1
 authors = [
     "Mladen Popadić <mladen.popadic.4@gmail.com>",
 ]
-description = "Mladen's custom nightox theme"
+description = "Mladen's custom night themes"
 repository = "https://github.com/mpopadic/nightfox_m-zed"
