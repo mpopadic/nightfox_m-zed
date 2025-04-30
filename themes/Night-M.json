@@ -1490,11 +1490,19 @@
           "constant": {
             "color": "#f6b079"
           },
+          "constant.builtin": {
+            "color": "#f6b079",
+            "font_style": null,
+            "font_weight": null
+          },
+          "constant.macro": {
+            "color": "#f6b079"
+          },
           "constructor": {
             "color": "#f6b079"
           },
           "function": {
-            "color": "#86abdc",
+            "color": "#57A8F5",
             "font_weight": 500
           },
           "keyword": {
@@ -1556,6 +1564,12 @@
           "variable": {
             "color": "#cacaca"
           },
+          "variable.builtin": {
+            "color": "#f6b079bb"
+          },
+          "variable.member": {
+              "color": "#9CDCFE"
+          },
           "variable.special": {
             "color": "#ed808c",
             "font_style": "normal",
@@ -1567,7 +1581,7 @@
             "font_weight": null
           },
           "title": {
-            "color": null,
+            "color": "#dc8db3",
             "font_style": null,
             "font_weight": null
           },
@@ -1607,7 +1621,7 @@
             "font_weight": null
           },
           "function.method": {
-            "color": "#9CDCFE",
+            "color": "#86abdc",
             "font_style": null,
             "font_weight": null
           },
