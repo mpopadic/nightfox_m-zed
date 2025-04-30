@@ -1428,7 +1428,7 @@
         "conflict": "#f4a261",
         "created": "#81b29a",
         "deleted": "#2f2837",
-        "drop_target.background": "#131a24",
+        "drop_target.background": "#212e3f",
         "editor.active_line.background": "#171a1f",
         "editor.active_line_number": "#dbc074",
         "editor.active_wrap_guide": "#212e3f",
