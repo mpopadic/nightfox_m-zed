@@ -5,5 +5,5 @@ schema_version = 1
 authors = [
     "Mladen Popadić <mladen.popadic.4@gmail.com>",
 ]
-description = "Mladen's custom night themes"
+description = "Mladen's custom themes"
 repository = "https://github.com/mpopadic/nightfox_m-zed"
